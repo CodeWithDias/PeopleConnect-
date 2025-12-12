@@ -1,0 +1,5 @@
+{
+  "name": "PeopleConnect",
+  "description": "A personal relationship management app to organize contacts, notes, and connections with AI-assisted note taking.",
+  "requestFramePermissions": []
+}
